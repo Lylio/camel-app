@@ -21,4 +21,4 @@ Introduction to the Camel framework.
 <br/>
 
 #### Acknowledgements
-Based on the article [Getting Started with Apache Camel and Spring Boot](https://reflectoring.io/spring-camel/).
+Based on the articles at [Masterspringboot (Camel)](http://www.masterspringboot.com/category/camel/).
