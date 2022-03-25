@@ -4,7 +4,7 @@ import org.apache.camel.CamelContext;
 import org.apache.camel.builder.RouteBuilder;
 import org.apache.camel.impl.DefaultCamelContext;
 
-public class MainApp {
+public class MessageMoveMain {
 
     public static void main(String args[]) throws Exception {
         CamelContext context = new DefaultCamelContext();

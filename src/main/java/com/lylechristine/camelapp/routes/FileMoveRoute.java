@@ -2,7 +2,7 @@ package com.lylechristine.camelapp.routes;
 
 import org.apache.camel.builder.RouteBuilder;
 
-public class FileMove extends RouteBuilder {
+public class FileMoveRoute extends RouteBuilder {
 
     @Override
     public void configure() throws Exception {
