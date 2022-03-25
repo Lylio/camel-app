@@ -8,6 +8,7 @@ public class FileMoveRoute extends RouteBuilder {
     public void configure() throws Exception {
         from("file:src/data?noop=true").to("file:target/messages/others")
                 .routeId("file-move")
+                .log("MOVING FILES!")
                 .log(">>> %{body}");
 
     }
